@@ -10,3 +10,7 @@ src/data_handling/__pycache__/
 src/trainer/__pycache__/
 
 src/transformer/__pycache__/
+
+data/*
+
+Datasets/*
